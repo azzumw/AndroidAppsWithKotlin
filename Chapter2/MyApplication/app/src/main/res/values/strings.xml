@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise2_04</string>
+    <string name="header_text">Please enter your name and then we\'ll get started</string>
+    <string name="welcome_text">Hello %s, we hope you enjoy using the app!</string>
+    <string name="full_name_label">Full Name: </string>
+    <string name="submit_btn_text">SUBMIT</string>
+</resources>
